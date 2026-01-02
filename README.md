@@ -42,7 +42,7 @@ This project was completed as part of **Cloud Computing & DevOps – Task 1** to
 📸 Screenshots Included
 - S3 Static Website Hosting configuration
 - S3 Bucket Policy
-  ![Bucket Policy](screenshots/BucketPolicy)
+  ![Bucket Policy](screenshots/BucketPolicy.png)
 - CloudFront Distribution (Deployed status)
 - Live website running on HTTPS
 
