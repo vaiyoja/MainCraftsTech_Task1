@@ -50,7 +50,8 @@ This project was completed as part of **Cloud Computing & DevOps – Task 1** to
   ![CloudFront](screenshots/CloudFrontDist.png)
   
 - Live website running on HTTPS
-  ![Live Site](screenshots/LiveSite.png)
+  ![Live Site](screenshots/LiveSitePg1.png)
+  ![Live Site](screenshots/LiveSitePg2.png)
 
 
 📚 Learning Outcomes
