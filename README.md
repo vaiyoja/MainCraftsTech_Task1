@@ -6,6 +6,7 @@ The website is hosted on **Amazon S3** and delivered securely using **Amazon Clo
 
 This project was completed as part of **Cloud Computing & DevOps – Task 1** to gain hands-on experience with cloud storage, static website hosting, CDN configuration, and secure content delivery.
 
+---
 
 🛠️ Technologies Used
 - HTML
@@ -14,6 +15,7 @@ This project was completed as part of **Cloud Computing & DevOps – Task 1** to
 - Amazon CloudFront (CDN & HTTPS)
 - Git & GitHub
 
+---
 
 🎯 Features
 - Responsive single-page layout
@@ -23,6 +25,7 @@ This project was completed as part of **Cloud Computing & DevOps – Task 1** to
 - Google Fonts and FontAwesome icons
 - HTTPS-enabled using CloudFront
 
+---
 
 🚀 Deployment Steps
 1. Created an Amazon S3 bucket and disabled Block Public Access.
@@ -33,26 +36,33 @@ This project was completed as part of **Cloud Computing & DevOps – Task 1** to
 6. Configured CloudFront to redirect HTTP to HTTPS.
 7. Tested and verified the live website using the CloudFront URL.
 
+---
 
 🌐 Live Demo
 - CloudFront URL: https://dqtxtuiiy8872.cloudfront.net/  
 - GitHub Repository: https://github.com/vaiyoja/Main_Portfolio
 
+---
 
 📸 Screenshots Included
 - S3 Static Website Hosting configuration
   ![S3 Static Hosting](screenshots/StaticWebHosting.png)
+  ---
   
 - S3 Bucket Policy
   ![Bucket Policy](screenshots/BucketPolicy.png)
+  ---
   
 - CloudFront Distribution (Deployed status)
   ![CloudFront](screenshots/CloudFrontDist.png)
+  ---
   
 - Live website running on HTTPS
   ![Live Site](screenshots/LiveSitePg1.png)
+  -
   ![Live Site](screenshots/LiveSitePg2.png)
 
+---
 
 📚 Learning Outcomes
 - Understanding Amazon S3 static website hosting
